@@ -1,0 +1,9 @@
+span.cqe_product_name {
+    margin-left: 10px;
+}
+.woocommerce-checkout-review-order-table td.product-name a {
+    float: left;
+}
+.woocommerce-checkout-review-order-table .quantity{
+	float:right;
+}
